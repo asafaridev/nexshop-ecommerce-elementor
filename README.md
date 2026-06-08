@@ -5,7 +5,7 @@ A premium, dark-themed WooCommerce shoe store built with Elementor Pro and custo
 NexShop is an iconic, high-end WooCommerce landing page and product experience platform designed for limited-edition sneakers. Built using a **Dark Theme** aesthetic with premium gold accents (`#E1B13C`).
 
 ## 🚀 Live Demo / Preview
-> 💡 **How to view the design:** Since this is a dynamic WordPress/WooCommerce site, you can view the full UI/UX walkthrough and interactive design showcase via the link below:
+> 💡 **How to view the design:** Since this is a dynamic WordPress/WooCommerce site, you can view the full UI/UX walkthrough and interactive design showcase via the link below: https://mega.nz/file/0nxjHBBZ#j4JCimnHVFhdWjsN8l9gf0ytW-_3hULXDeSSSPlJEKU
 > <img width="1894" height="850" alt="Screenshot 2026-06-08 154046" src="https://github.com/user-attachments/assets/4b69d79d-64ed-4300-b043-1e35196bcee7" />
 **
 
